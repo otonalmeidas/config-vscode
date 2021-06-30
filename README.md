@@ -3,8 +3,7 @@ Estas são as configurações que utilizo em meu Visual Studio Code para desenvo
 
 ## ✨ Extensões:
 
-- [ ] CodeSnap
-  [Link da extensão](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+- [ ] [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 - [ ] Color Highlight
 - [ ] EditorConfig for VS Code
 - [ ] ESLint
