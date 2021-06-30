@@ -1,5 +1,6 @@
-## :hammer_and_wrench: Configs no VSCode
+## :hammer_and_wrench: Minhas configs no VSCode
 Estas são as configurações que utilizo em meu Visual Studio Code para desenvolvimento Front-End com JavaScript, React e NextJS.
+Meu ambiente de desenvolvimento é montado no Windows 11 (Versão Oficial Windows Insider) usando o WSL com termianl ZSH (Oh My Zsh) no Windows Terminal.
 
 ## ✨ Extensões:
 
