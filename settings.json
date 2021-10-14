@@ -1,57 +1,48 @@
 {
-  // Configurações da fonte JetBrains Mono
   "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
-  "editor.tabSize": 2,
+  "editor.tabSize": 4,
   "editor.fontSize": 16,
   "editor.lineHeight": 26,
-  "editor.semanticHighlighting.enabled": false,
-
-  // Terminal
-  "terminal.integrated.fontSize": 16,
-  "terminal.integrated.tabs.enabled": false,
-  "terminal.integrated.defaultProfile.windows": "Ubuntu-20.04 (WSL)",
-  
-  "workbench.startupEditor": "newUntitledFile",
-  "explorer.compactFolders": false,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
   "editor.renderLineHighlight": "gutter",
-  "workbench.editor.labelFormat": "short",
-  "extensions.ignoreRecommendations": true,
-  "javascript.updateImportsOnFileMove.enabled": "never",
-  "typescript.updateImportsOnFileMove.enabled": "never",
-  "breadcrumbs.enabled": true,
   "editor.parameterHints.enabled": false,
-  "explorer.confirmDragAndDrop": false,
-  "explorer.confirmDelete": false,
-
+  "editor.semanticHighlighting.enabled": false,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.tabs.enabled": false,
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.colorTheme": "One Monokai",
+  "workbench.editor.labelFormat": "short",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "newUntitledFile",
+  "breadcrumbs.enabled": true,
+  "extensions.ignoreRecommendations": true,
+  "liveServer.settings.donotShowInfoMsg": true,
   "emmet.syntaxProfiles": {
     "javascript": "jsx"
   },
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "typescript.updateImportsOnFileMove.enabled": "never",
   "javascript.suggest.autoImports": true,
-  "editor.formatOnSave": true,
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  
-  "liveServer.settings.donotShowInfoMsg": true,
-  "editor.minimap.enabled": false,
-  
-  
-  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.languages.associations": {
+    "dotenv": "tune"
+  },
   "material-icon-theme.files.associations": {
     "ormconfig.json": "database",
     "tsconfig.json": "tune",
     "*.proto": "3d",
     "*.webpack.js": "webpack"
-  },
-  "material-icon-theme.languages.associations": {
-    "dotenv": "tune"
-  },
-  "workbench.colorTheme": "Min Dark",
+  }
 }
