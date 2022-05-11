@@ -1,69 +1,56 @@
 {
   "window.zoomLevel": 0,
   "breadcrumbs.enabled": false,
-  
   "editor.tabSize": 2,
   "editor.fontSize": 16,
-  "editor.lineHeight": 28,
-  "editor.fontFamily": "Fira Code",
+  "editor.lineHeight": 30,
+  "editor.letterSpacing": -1,
+  "editor.fontFamily": "Fira Code Retina",
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
-  
   "terminal.integrated.fontSize": 16,
   "terminal.integrated.lineHeight": 1.5,
   "terminal.integrated.tabs.enabled": false,
   "terminal.integrated.showExitAlert": false,
-  
   "editor.minimap.enabled": false,
   "editor.suggestSelection": "first",
   "editor.renderLineHighlight": "gutter",
   "editor.parameterHints.enabled": false,
   "editor.semanticHighlighting.enabled": false,
-  
   "explorer.confirmDelete": false,
   "explorer.compactFolders": false,
   "explorer.confirmDragAndDrop": false,
   "extensions.ignoreRecommendations": true,
-
   "git.enableSmartCommit": true,
   "javascript.suggest.autoImports": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
-
   "typescript.tsserver.log": "off",
   "typescript.suggest.autoImports": true,
   "typescript.updateImportsOnFileMove.enabled": "never",
-  
   "workbench.editor.labelFormat": "short",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "newUntitledFile",
-  "workbench.productIconTheme": "fluent-icons",
-  "workbench.colorTheme": "Aura Soft Dark (Soft Text)",
-
+  "workbench.colorTheme": "Aura Dark (Soft Text)",
   "codesnap.boxShadow": "0 0 0",
   "codesnap.transparentBackground": true,
   "codesnap.backgroundColor": "transparent",
-  
   "screencastMode.onlyKeyboardShortcuts": true,
   "security.workspace.trust.untrustedFiles": "open",
-
   "liveServer.settings.donotVerifyTags": true,
   "liveServer.settings.donotShowInfoMsg": true,
-  
   "material-icon-theme.activeIconPack": "nest",
   "material-icon-theme.languages.associations": {
     "dotenv": "tune"
   },
-
   "material-icon-theme.files.associations": {
     "ormconfig.json": "database",
     "tsconfig.json": "tune",
     "*.proto": "3d",
     "*.webpack.js": "webpack"
   },
-
   "material-icon-theme.folders.associations": {
     "infra": "app",
     "entities": "class",
@@ -89,14 +76,12 @@
     "eslint-config": "tools",
     "kube": "kubernetes"
   },
-  
   "emmet.syntaxProfiles": {
     "javascript": "jsx"
   },
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
-  
   "files.exclude": {
     "**/.git": true,
     "**/.svn": true,
@@ -105,7 +90,6 @@
     "**/.DS_Store": true,
     "**/node_modules": true
   },
-  
   "files.associations": {
     ".sequelizerc": "javascript",
     ".stylelintrc": "json",
@@ -113,7 +97,6 @@
     "*.tsx": "typescriptreact",
     ".env.*": "dotenv"
   },
-
   "[prisma]": {
     "editor.formatOnSave": true
   }
