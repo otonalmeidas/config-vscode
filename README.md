@@ -5,6 +5,7 @@ Ambiente montado no ASUS VivoBook com Windows 11, Windows Terminal usando WSL co
 
 ## ✨ Extensões:
 
+- [x] [JetBrains Mono](https://www.jetbrains.com/pt-br/lp/mono/)
 - [x] [Aura Theme](https://github.com/daltonmenezes/aura-theme)
 - [x] [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 - [x] [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
