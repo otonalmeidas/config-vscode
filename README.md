@@ -1,7 +1,6 @@
 ## :hammer_and_wrench: Minhas configs no VSCode
 
-Configurações que utilizo no meu VSCode pra Front-End com TypeScript, NextJS, Styled-Components e CMS's.
-Ambiente montado no ASUS VivoBook com Windows 11, Windows Terminal usando WSL com ZSH (Oh My Zsh).
+Configurações que utilizo no meu VSCode pra Front-End. Ambiente montado no ASUS VivoBook com Windows 11, Windows Terminal usando WSL com ZSH (Oh My Zsh).
 
 ## ✨ Extensões:
 
