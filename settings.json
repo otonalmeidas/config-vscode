@@ -2,10 +2,10 @@
   "window.zoomLevel": 0,
   "breadcrumbs.enabled": false,
   "editor.tabSize": 2,
-  "editor.fontSize": 18,
-  "editor.lineHeight": 28,
+  "editor.fontSize": 16,
+  "editor.lineHeight": 26,
   "editor.letterSpacing": -0.5,
-  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontFamily": "JetBrains Mono NL",
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
