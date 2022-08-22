@@ -1,18 +1,16 @@
 {
-  "window.zoomLevel": 0,
   "breadcrumbs.enabled": false,
   "editor.tabSize": 2,
-  "editor.fontSize": 16,
-  "editor.lineHeight": 26,
-  "editor.letterSpacing": -0.5,
-  "editor.fontFamily": "JetBrains Mono NL",
+  "editor.fontSize": 15,
+  "editor.lineHeight": 22,
+  "editor.letterSpacing": -0.25,
+  "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
   "terminal.integrated.fontSize": 16,
-  "terminal.integrated.lineHeight": 1.5,
   "terminal.integrated.tabs.enabled": false,
   "terminal.integrated.showExitAlert": false,
   "editor.minimap.enabled": false,
@@ -31,9 +29,8 @@
   "typescript.suggest.autoImports": true,
   "typescript.updateImportsOnFileMove.enabled": "never",
   "workbench.editor.labelFormat": "short",
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "eq-material-theme-icons-ocean",
   "workbench.startupEditor": "newUntitledFile",
-  "workbench.colorTheme": "Aura Dark (Soft Text)",
   "codesnap.boxShadow": "0 0 0",
   "codesnap.transparentBackground": true,
   "codesnap.backgroundColor": "transparent",
@@ -87,8 +84,7 @@
     "**/.svn": true,
     "**/.hg": true,
     "**/CVS": true,
-    "**/.DS_Store": true,
-    "**/node_modules": true
+    "**/.DS_Store": true
   },
   "files.associations": {
     ".sequelizerc": "javascript",
@@ -99,5 +95,6 @@
   },
   "[prisma]": {
     "editor.formatOnSave": true
-  }
+  },
+  "workbench.colorTheme": "Material Theme Ocean High Contrast"
 }
