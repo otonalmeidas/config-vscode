@@ -4,6 +4,7 @@ Configurações que utilizo no meu VSCode pra Front-End. Ambiente montado no ASU
 
 ## ✨ Extensões, Fonte e Terminal:
 
+- [x] [Aura Theme](https://github.com/daltonmenezes/aura-theme)
 - [x] [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 - [x] [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 - [x] [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
@@ -13,8 +14,6 @@ Configurações que utilizo no meu VSCode pra Front-End. Ambiente montado no ASU
 - [x] [JetBrains Mono](https://www.jetbrains.com/pt-br/lp/mono/)
 - [x] [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [x] [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
-- [x] [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
-- [x] [Material Theme Community](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme)
 - [x] [Material Theme Icons](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons)
 - [x] [PostCSS Language Support](https://marketplace.visualstudio.com/items?itemName=csstools.postcss)
 - [x] [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.prettier-vscode)
