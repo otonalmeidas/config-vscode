@@ -1,8 +1,8 @@
 {
   "breadcrumbs.enabled": false,
   "editor.tabSize": 2,
-  "editor.fontSize": 15,
-  "editor.lineHeight": 22,
+  "editor.fontSize": 16,
+  "editor.lineHeight": 26,
   "editor.letterSpacing": -0.25,
   "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
@@ -29,7 +29,6 @@
   "typescript.suggest.autoImports": true,
   "typescript.updateImportsOnFileMove.enabled": "never",
   "workbench.editor.labelFormat": "short",
-  "workbench.iconTheme": "eq-material-theme-icons-ocean",
   "workbench.startupEditor": "newUntitledFile",
   "codesnap.boxShadow": "0 0 0",
   "codesnap.transparentBackground": true,
@@ -96,5 +95,7 @@
   "[prisma]": {
     "editor.formatOnSave": true
   },
-  "workbench.colorTheme": "Material Theme Ocean High Contrast"
+  "workbench.colorTheme": "Aura Dark",
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.iconTheme": "material-icon-theme"
 }
