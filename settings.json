@@ -1,72 +1,74 @@
 {
-    "editor.tabSize": 2,
-    "editor.fontSize": 17,
-    "editor.lineHeight": 26,
-    "editor.letterSpacing": -1,
-    "editor.fontFamily": "JetBrains Mono",
-    "editor.fontLigatures": true,
-    "editor.formatOnSave": true,
-    
-    "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true
-    },
-  
-    "terminal.integrated.fontSize": 16,
-    "terminal.integrated.tabs.enabled": false,
-    "terminal.integrated.showExitAlert": false,
+  "editor.tabSize": 2,
+  "editor.fontSize": 17,
+  "editor.lineHeight": 26,
+  "editor.letterSpacing": -1,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
 
-    "editor.minimap.enabled": false,
-    "editor.suggestSelection": "first",
-    "editor.renderLineHighlight": "gutter",
-    "editor.parameterHints.enabled": false,
-    "editor.semanticHighlighting.enabled": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
 
-    "explorer.confirmDelete": false,
-    "explorer.compactFolders": false,
-    "explorer.confirmDragAndDrop": false,
-    
-    "git.enableSmartCommit": true,
-    "security.workspace.trust.untrustedFiles": "open",
-    "extensions.ignoreRecommendations": true,
-    "javascript.suggest.autoImports": true,
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "typescript.tsserver.log": "off",
-    "typescript.suggest.autoImports": true,
-    "typescript.updateImportsOnFileMove.enabled": "never",
-    "workbench.editor.labelFormat": "short",
-    "workbench.startupEditor": "none",
-    "workbench.productIconTheme": "fluent-icons",
-    "workbench.colorTheme": "Rosé Pine",
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.tabs.enabled": false,
+  "terminal.integrated.showExitAlert": false,
 
-    "liveServer.settings.donotVerifyTags": true,
-    "liveServer.settings.donotShowInfoMsg": true,
+  "editor.minimap.enabled": false,
+  "editor.suggestSelection": "first",
+  "editor.renderLineHighlight": "gutter",
+  "editor.parameterHints.enabled": false,
+  "editor.semanticHighlighting.enabled": false,
 
-    "screencastMode.onlyKeyboardShortcuts": true,
-    "codesnap.boxShadow": "0 0 0",
-    "codesnap.transparentBackground": true,
-    "codesnap.backgroundColor": "transparent",
-  
-    "emmet.syntaxProfiles": {
-      "javascript": "jsx"
-    },
-  
-    "emmet.includeLanguages": {
-      "javascript": "javascriptreact"
-    },
-  
-    "files.exclude": {
-      "**/.git": true,
-      "**/.svn": true,
-      "**/.hg": true,
-      "**/CVS": true,
-      "**/.DS_Store": true
-    },
-  
-    "files.associations": {
-      ".sequelizerc": "javascript",
-      ".stylelintrc": "json",
-      ".prettierrc": "json",
-      "*.tsx": "typescriptreact",
-      ".env.*": "dotenv"
-    },
-  }
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+
+  "git.enableSmartCommit": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "extensions.ignoreRecommendations": true,
+  "javascript.suggest.autoImports": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.tsserver.log": "off",
+  "typescript.suggest.autoImports": true,
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "workbench.editor.labelFormat": "short",
+  "workbench.startupEditor": "none",
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.colorTheme": "Rosé Pine",
+
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+
+  "screencastMode.onlyKeyboardShortcuts": true,
+  "codesnap.boxShadow": "0 0 0",
+  "codesnap.transparentBackground": true,
+  "codesnap.backgroundColor": "transparent",
+
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true
+  },
+
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    ".prettierrc": "json",
+    "*.tsx": "typescriptreact",
+    ".env.*": "dotenv"
+  },
+  "workbench.iconTheme": "symbols",
+  "window.zoomLevel": 0.5
+}
